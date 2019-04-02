@@ -1,2 +1,4 @@
 # Wine-Connosiuer-
-Web Application 
+Web Application
+Run in cmd
+pyhton manage.py runserver
